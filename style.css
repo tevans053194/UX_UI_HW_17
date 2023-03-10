@@ -1,0 +1,53 @@
+nav {
+    display: flex; 
+    justify-content: space-between;
+}
+
+.navMenu {
+    display: flex;
+    background-color: #D7B5C8;
+    padding: 10px;
+    border-radius: 15px;
+    height: fit-content;
+    width: 60%;
+}
+
+.navMenu li {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 450;
+    list-style: none;
+    padding: 10px;
+    height: auto;
+}
+
+#hero {
+    display: flex;
+
+}
+
+.heroImg {
+    width: 50%;
+
+}
+
+.buttons {
+    width: 50%;
+    height: auto;
+}
+
+.logoImg {
+    display: flex;
+    height: auto;
+    
+}
+
+.topHeader {
+    width: 100%;
+    
+}
+
+.mainP {
+    display: flex;
+    width: 50%;
+    position: relative;
+}
